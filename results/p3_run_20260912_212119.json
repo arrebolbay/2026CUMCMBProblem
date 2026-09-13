@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 13,
+  "expected_total": 13,
+  "case_code": "EEUN-MZ3D-BYPN-BD2Z",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 6528081068228281057,
+    "case_code": "EEUN-MZ3D-BYPN-BD2Z",
+    "package_sha256": "d8aa6b459c419f255049b9ab53c25b6270d9854ad66ee1106cc06cafc1940083",
+    "window_started_at_utc": "2026-09-12T13:21:19.435Z",
+    "ended_at_utc": "2026-09-12T13:21:20.279Z",
+    "jammer_count": 13,
+    "omnidirectional_jammer_count": 13,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3943.5692994946166,
+  "mean_clear_time_s": 303.351484576509,
+  "program_run_time_s": 1.5,
+  "counts": {
+    "measure": 137,
+    "clear": 21,
+    "clear_success": 13,
+    "clear_fail": 8,
+    "direction": 38,
+    "near": 0,
+    "no_signal": 99
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260912_212119.jsonl",
+  "audit_warnings": []
+}

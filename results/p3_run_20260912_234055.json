@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 11,
+  "expected_total": 11,
+  "case_code": "82AC-WAWY-C8G6-DW9B",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 8133635439215073201,
+    "case_code": "82AC-WAWY-C8G6-DW9B",
+    "package_sha256": "062895e97225cfd2f572639f4799e2d37b290d22e6e3b840e331f320c828d71a",
+    "window_started_at_utc": "2026-09-12T15:40:41.623Z",
+    "ended_at_utc": "2026-09-12T15:40:56.066Z",
+    "jammer_count": 11,
+    "omnidirectional_jammer_count": 11,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3679.7030578062377,
+  "mean_clear_time_s": 334.5184598005671,
+  "program_run_time_s": 1.912,
+  "counts": {
+    "measure": 140,
+    "clear": 17,
+    "clear_success": 11,
+    "clear_fail": 6,
+    "direction": 33,
+    "near": 0,
+    "no_signal": 107
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260912_234055.jsonl",
+  "audit_warnings": []
+}

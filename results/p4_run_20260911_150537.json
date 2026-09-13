@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "problem_no": 4,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 14,
+  "expected_total": 14,
+  "case_code": "E4X2-EKCR-F3UG-J8RV",
+  "truth": {
+    "version": 2,
+    "problem_no": 4,
+    "practice_run_no": 391503958457452878,
+    "case_code": "E4X2-EKCR-F3UG-J8RV",
+    "package_sha256": "f1688045a00fc9dd7fc6b5396f31e6cce5d45783659fb9bf8c850af13b0f7fa7",
+    "window_started_at_utc": "2026-09-11T07:03:48.97Z",
+    "ended_at_utc": "2026-09-11T07:05:39.549Z",
+    "jammer_count": 14,
+    "omnidirectional_jammer_count": 8,
+    "directional_jammer_count": 6
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 11178.952471497614,
+  "mean_clear_time_s": 798.4966051069724,
+  "program_run_time_s": 1.462,
+  "counts": {
+    "measure": 366,
+    "clear": 14,
+    "clear_success": 14,
+    "clear_fail": 0,
+    "direction": 47,
+    "near": 0,
+    "no_signal": 319
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p4_run_20260911_150537.jsonl",
+  "audit_warnings": []
+}

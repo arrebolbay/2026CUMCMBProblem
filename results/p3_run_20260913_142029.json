@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "problem_no": 3,
+  "run_mode": "mock",
+  "label": "正式测试1",
+  "robot_id": "TESTID",
+  "base_url": "http://127.0.0.1:60209",
+  "cleared_jammers": 14,
+  "expected_total": null,
+  "case_code": null,
+  "truth": null,
+  "clearance_ratio": null,
+  "total_virtual_time_s": 3978.256449270227,
+  "mean_clear_time_s": 284.16117494787335,
+  "program_run_time_s": 1.012,
+  "counts": {
+    "measure": 134,
+    "clear": 23,
+    "clear_success": 14,
+    "clear_fail": 9,
+    "direction": 43,
+    "near": 0,
+    "no_signal": 91
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_142029.jsonl",
+  "audit_warnings": []
+}

@@ -1,0 +1,28 @@
+{
+  "status": "completed",
+  "problem_no": 3,
+  "run_mode": "mock",
+  "label": "幂等验证",
+  "robot_id": "TESTID",
+  "base_url": "http://127.0.0.1:56989",
+  "cleared_jammers": 12,
+  "expected_total": null,
+  "case_code": null,
+  "truth": null,
+  "clearance_ratio": null,
+  "total_virtual_time_s": 3390.3824306426977,
+  "mean_clear_time_s": 282.5318692202248,
+  "program_run_time_s": 1.021,
+  "counts": {
+    "measure": 144,
+    "clear": 15,
+    "clear_success": 12,
+    "clear_fail": 3,
+    "direction": 35,
+    "near": 0,
+    "no_signal": 109
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_142427.jsonl",
+  "audit_warnings": []
+}

@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 15,
+  "expected_total": 15,
+  "case_code": "CFAW-PGE2-46DB-TUUT",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 1377946082153247631,
+    "case_code": "CFAW-PGE2-46DB-TUUT",
+    "package_sha256": "305a9aa7fee673c926961634d4f1300243bd2a61379ebee7354b09a9d51c74d0",
+    "window_started_at_utc": "2026-09-11T16:40:43.923Z",
+    "ended_at_utc": "2026-09-11T16:40:48.489Z",
+    "jammer_count": 15,
+    "omnidirectional_jammer_count": 15,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3952.2536347529426,
+  "mean_clear_time_s": 263.4835756501962,
+  "program_run_time_s": 1.428,
+  "counts": {
+    "measure": 133,
+    "clear": 31,
+    "clear_success": 15,
+    "clear_fail": 16,
+    "direction": 45,
+    "near": 0,
+    "no_signal": 88
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260912_004046.jsonl",
+  "audit_warnings": []
+}

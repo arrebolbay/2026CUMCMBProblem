@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 4,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 14,
+  "expected_total": 14,
+  "case_code": "CEDP-XTUE-DVK4-NV4R",
+  "truth": {
+    "version": 2,
+    "problem_no": 4,
+    "practice_run_no": 2788964976222783812,
+    "case_code": "CEDP-XTUE-DVK4-NV4R",
+    "package_sha256": "49792eaa85ac75d178c46bd4a11b784cd6c9ba577ddacc13c866948f1dce4b61",
+    "window_started_at_utc": "2026-09-12T17:57:31.455Z",
+    "ended_at_utc": "2026-09-12T17:57:35.302Z",
+    "jammer_count": 14,
+    "omnidirectional_jammer_count": 12,
+    "directional_jammer_count": 2
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 6005.125395884661,
+  "mean_clear_time_s": 428.9375282774758,
+  "program_run_time_s": 1.616,
+  "counts": {
+    "measure": 230,
+    "clear": 14,
+    "clear_success": 14,
+    "clear_fail": 0,
+    "direction": 44,
+    "near": 1,
+    "no_signal": 185
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p4_run_20260913_015734.jsonl",
+  "audit_warnings": []
+}

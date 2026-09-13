@@ -1,0 +1,23 @@
+{
+  "status": "error:TimeoutError",
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:3999",
+  "cleared_jammers": 0,
+  "expected_total": null,
+  "clearance_ratio": null,
+  "total_virtual_time_s": 0.0,
+  "mean_clear_time_s": Infinity,
+  "program_run_time_s": 16.543,
+  "counts": {
+    "measure": 0,
+    "clear": 0,
+    "clear_success": 0,
+    "clear_fail": 0,
+    "direction": 0,
+    "near": 0,
+    "no_signal": 0
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260911_140528.jsonl",
+  "audit_warnings": []
+}

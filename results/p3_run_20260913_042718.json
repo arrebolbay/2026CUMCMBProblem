@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 16,
+  "expected_total": 16,
+  "case_code": "FMQB-UE8T-SZG2-4EWC",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 3032366702564662759,
+    "case_code": "FMQB-UE8T-SZG2-4EWC",
+    "package_sha256": "fd21179cbdaafc24ec6cd9fb95e3b076f6ce03c2105543c3da5c9739ff56008b",
+    "window_started_at_utc": "2026-09-12T20:27:15.184Z",
+    "ended_at_utc": "2026-09-12T20:27:21.04Z",
+    "jammer_count": 16,
+    "omnidirectional_jammer_count": 16,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3399.7225128628206,
+  "mean_clear_time_s": 212.4826570539263,
+  "program_run_time_s": 2.205,
+  "counts": {
+    "measure": 126,
+    "clear": 22,
+    "clear_success": 16,
+    "clear_fail": 6,
+    "direction": 51,
+    "near": 1,
+    "no_signal": 74
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_042718.jsonl",
+  "audit_warnings": []
+}

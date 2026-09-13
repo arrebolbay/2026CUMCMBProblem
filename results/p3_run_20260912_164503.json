@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 10,
+  "expected_total": 10,
+  "case_code": "STEX-3Q4W-PFGG-ZWXF",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 9194901278765397669,
+    "case_code": "STEX-3Q4W-PFGG-ZWXF",
+    "package_sha256": "71eefc729056b2c35fd51feb36ae1c6a4dbc48e3dfc70efbdbf7b0413f5a6d91",
+    "window_started_at_utc": "2026-09-12T08:44:57.867Z",
+    "ended_at_utc": "2026-09-12T08:45:03.786Z",
+    "jammer_count": 10,
+    "omnidirectional_jammer_count": 10,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3525.2332096162727,
+  "mean_clear_time_s": 352.5233209616273,
+  "program_run_time_s": 1.515,
+  "counts": {
+    "measure": 155,
+    "clear": 15,
+    "clear_success": 10,
+    "clear_fail": 5,
+    "direction": 29,
+    "near": 0,
+    "no_signal": 126
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260912_164503.jsonl",
+  "audit_warnings": []
+}

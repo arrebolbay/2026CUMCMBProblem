@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 15,
+  "expected_total": 15,
+  "case_code": "HPHU-BEBH-Z929-8FSC",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 215961362931764878,
+    "case_code": "HPHU-BEBH-Z929-8FSC",
+    "package_sha256": "9ae8d4cf97cd6f616bac4f35029765b67f6767380a7d643d26869cd1038965b9",
+    "window_started_at_utc": "2026-09-12T17:56:53.258Z",
+    "ended_at_utc": "2026-09-12T17:57:04.926Z",
+    "jammer_count": 15,
+    "omnidirectional_jammer_count": 15,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3356.667571510008,
+  "mean_clear_time_s": 223.77783810066722,
+  "program_run_time_s": 2.083,
+  "counts": {
+    "measure": 123,
+    "clear": 16,
+    "clear_success": 15,
+    "clear_fail": 1,
+    "direction": 45,
+    "near": 0,
+    "no_signal": 78
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_015703.jsonl",
+  "audit_warnings": []
+}

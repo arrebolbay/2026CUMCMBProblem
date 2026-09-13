@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 15,
+  "expected_total": 15,
+  "case_code": "VD67-YKDK-BH6K-M9X6",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 8804011991390008105,
+    "case_code": "VD67-YKDK-BH6K-M9X6",
+    "package_sha256": "3dce4e5a9bc9881f094402111a4601fd5c0e0d7e61f5d8af0ae1c6be5b2825f4",
+    "window_started_at_utc": "2026-09-11T06:40:38.786Z",
+    "ended_at_utc": "2026-09-11T06:40:43.681Z",
+    "jammer_count": 15,
+    "omnidirectional_jammer_count": 15,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 7954.822013362876,
+  "mean_clear_time_s": 530.321467557525,
+  "program_run_time_s": 1.198,
+  "counts": {
+    "measure": 142,
+    "clear": 42,
+    "clear_success": 15,
+    "clear_fail": 27,
+    "direction": 38,
+    "near": 0,
+    "no_signal": 104
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260911_144041.jsonl",
+  "audit_warnings": []
+}

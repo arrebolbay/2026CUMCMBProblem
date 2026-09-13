@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": 12,
+  "case_code": "7MS2-EYQC-NAVF-WPVR",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 8677337248956465787,
+    "case_code": "7MS2-EYQC-NAVF-WPVR",
+    "package_sha256": "25a6a648e8f7b853a186b3574f0d87fe5f70e79d0078f0f2e6d36c879bd59e02",
+    "window_started_at_utc": "2026-09-12T20:27:03.095Z",
+    "ended_at_utc": "2026-09-12T20:27:05.127Z",
+    "jammer_count": 12,
+    "omnidirectional_jammer_count": 12,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3948.3761557593566,
+  "mean_clear_time_s": 329.0313463132797,
+  "program_run_time_s": 2.067,
+  "counts": {
+    "measure": 148,
+    "clear": 15,
+    "clear_success": 12,
+    "clear_fail": 3,
+    "direction": 32,
+    "near": 0,
+    "no_signal": 116
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_042702.jsonl",
+  "audit_warnings": []
+}

@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": 12,
+  "case_code": "P4YM-RZZE-QEVX-YA5E",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 2403878754055616055,
+    "case_code": "P4YM-RZZE-QEVX-YA5E",
+    "package_sha256": "438cef274d119534221bc89d58c0da73b19cc7fa37e382b77891ea4a002da405",
+    "window_started_at_utc": "2026-09-11T14:28:35.355Z",
+    "ended_at_utc": "2026-09-11T14:28:38.283Z",
+    "jammer_count": 12,
+    "omnidirectional_jammer_count": 12,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 4457.304674326587,
+  "mean_clear_time_s": 371.44205619388225,
+  "program_run_time_s": 1.235,
+  "counts": {
+    "measure": 140,
+    "clear": 15,
+    "clear_success": 12,
+    "clear_fail": 3,
+    "direction": 30,
+    "near": 0,
+    "no_signal": 110
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260911_222836.jsonl",
+  "audit_warnings": []
+}

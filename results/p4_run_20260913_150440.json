@@ -1,0 +1,36 @@
+{
+  "status": "completed",
+  "problem_no": 4,
+  "run_mode": "live",
+  "run_kind": "formal",
+  "label": "正式测试1",
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": null,
+  "case_code": "9NWN-6Y2T-MMXT-QACH",
+  "truth": {
+    "version": 1,
+    "problem_no": 4,
+    "formal_index": 1,
+    "case_code": "9NWN-6Y2T-MMXT-QACH",
+    "package_sha256": "ce9c53b4d6f92821552f6deaf4d286763882f6c671037d85079d408491028d83",
+    "ended_at_utc": "2026-09-13T07:04:42.841Z"
+  },
+  "clearance_ratio": null,
+  "total_virtual_time_s": 6480.031690752286,
+  "mean_clear_time_s": 540.0026408960238,
+  "program_run_time_s": 1.499,
+  "counts": {
+    "measure": 252,
+    "clear": 13,
+    "clear_success": 12,
+    "clear_fail": 1,
+    "direction": 38,
+    "near": 0,
+    "no_signal": 214
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p4_run_20260913_150440.jsonl",
+  "audit_warnings": []
+}

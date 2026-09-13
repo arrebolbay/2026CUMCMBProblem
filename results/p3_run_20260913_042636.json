@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": 12,
+  "case_code": "PH7X-APCR-AJ38-CZF2",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 8716995627310129689,
+    "case_code": "PH7X-APCR-AJ38-CZF2",
+    "package_sha256": "fdf8c656da3c7be438a5b102693f1d2bd35b507f2a925c9acf8b77361331bf8f",
+    "window_started_at_utc": "2026-09-12T20:26:38.325Z",
+    "ended_at_utc": "2026-09-12T20:26:39.12Z",
+    "jammer_count": 12,
+    "omnidirectional_jammer_count": 12,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3958.5211929332722,
+  "mean_clear_time_s": 329.8767660777727,
+  "program_run_time_s": 1.92,
+  "counts": {
+    "measure": 167,
+    "clear": 16,
+    "clear_success": 12,
+    "clear_fail": 4,
+    "direction": 37,
+    "near": 1,
+    "no_signal": 129
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_042636.jsonl",
+  "audit_warnings": []
+}

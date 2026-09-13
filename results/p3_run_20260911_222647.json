@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 10,
+  "expected_total": 10,
+  "case_code": "BWVV-XD5R-2UAG-5C6Y",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 5368509948962234323,
+    "case_code": "BWVV-XD5R-2UAG-5C6Y",
+    "package_sha256": "3d58204208542d249c2d71b7a4d8463d98b65188d9d7717b0bd86a58602a2802",
+    "window_started_at_utc": "2026-09-11T14:25:08.391Z",
+    "ended_at_utc": "2026-09-11T14:26:49.556Z",
+    "jammer_count": 10,
+    "omnidirectional_jammer_count": 10,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 4266.739652138054,
+  "mean_clear_time_s": 426.67396521380545,
+  "program_run_time_s": 1.241,
+  "counts": {
+    "measure": 143,
+    "clear": 17,
+    "clear_success": 10,
+    "clear_fail": 7,
+    "direction": 27,
+    "near": 0,
+    "no_signal": 116
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260911_222647.jsonl",
+  "audit_warnings": []
+}

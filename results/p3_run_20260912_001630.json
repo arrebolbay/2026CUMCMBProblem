@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": 12,
+  "case_code": "YSEA-ES6B-YGX9-46FS",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 4296081606527649490,
+    "case_code": "YSEA-ES6B-YGX9-46FS",
+    "package_sha256": "5839e73b5d322e9045430e4caaba14e5c41c9bf3a1189870780300ba669d07a8",
+    "window_started_at_utc": "2026-09-11T16:16:19.209Z",
+    "ended_at_utc": "2026-09-11T16:16:32.284Z",
+    "jammer_count": 12,
+    "omnidirectional_jammer_count": 12,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3562.3402624631344,
+  "mean_clear_time_s": 296.86168853859454,
+  "program_run_time_s": 1.454,
+  "counts": {
+    "measure": 145,
+    "clear": 27,
+    "clear_success": 12,
+    "clear_fail": 15,
+    "direction": 35,
+    "near": 0,
+    "no_signal": 110
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260912_001630.jsonl",
+  "audit_warnings": []
+}

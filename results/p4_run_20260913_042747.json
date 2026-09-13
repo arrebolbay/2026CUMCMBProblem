@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 4,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 10,
+  "expected_total": 10,
+  "case_code": "CMSV-MHT3-PFYR-NQ8R",
+  "truth": {
+    "version": 2,
+    "problem_no": 4,
+    "practice_run_no": 2845496008205583748,
+    "case_code": "CMSV-MHT3-PFYR-NQ8R",
+    "package_sha256": "bb10185db24f94a45b39bcb183eb71134657bac0a01ee720849647452b8c8e31",
+    "window_started_at_utc": "2026-09-12T20:27:36.245Z",
+    "ended_at_utc": "2026-09-12T20:27:49.484Z",
+    "jammer_count": 10,
+    "omnidirectional_jammer_count": 9,
+    "directional_jammer_count": 1
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 6285.37043997681,
+  "mean_clear_time_s": 628.537043997681,
+  "program_run_time_s": 1.716,
+  "counts": {
+    "measure": 277,
+    "clear": 10,
+    "clear_success": 10,
+    "clear_fail": 0,
+    "direction": 30,
+    "near": 0,
+    "no_signal": 247
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p4_run_20260913_042747.jsonl",
+  "audit_warnings": []
+}

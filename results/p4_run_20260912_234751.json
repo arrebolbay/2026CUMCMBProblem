@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 4,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": 12,
+  "case_code": "HFCW-EYX2-SNZ2-TESR",
+  "truth": {
+    "version": 2,
+    "problem_no": 4,
+    "practice_run_no": 2678352663249478961,
+    "case_code": "HFCW-EYX2-SNZ2-TESR",
+    "package_sha256": "f2f64b34d26f2f454ee6da7c7e9709110373f33fc239746421756f0a9f2726d3",
+    "window_started_at_utc": "2026-09-12T15:47:48.118Z",
+    "ended_at_utc": "2026-09-12T15:47:52.026Z",
+    "jammer_count": 12,
+    "omnidirectional_jammer_count": 1,
+    "directional_jammer_count": 11
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 8093.536236269715,
+  "mean_clear_time_s": 674.4613530224763,
+  "program_run_time_s": 1.79,
+  "counts": {
+    "measure": 356,
+    "clear": 68,
+    "clear_success": 12,
+    "clear_fail": 56,
+    "direction": 61,
+    "near": 0,
+    "no_signal": 295
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p4_run_20260912_234751.jsonl",
+  "audit_warnings": []
+}

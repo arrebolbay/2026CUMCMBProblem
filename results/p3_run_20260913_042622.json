@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 14,
+  "expected_total": 14,
+  "case_code": "ST2J-8KQD-VPRV-9UWD",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 3375255061922681294,
+    "case_code": "ST2J-8KQD-VPRV-9UWD",
+    "package_sha256": "9816200846fd4f40a1458cdcbffe54121bcb32ffee1a9b39369f7d5754fce9dd",
+    "window_started_at_utc": "2026-09-12T20:26:25.875Z",
+    "ended_at_utc": "2026-09-12T20:26:28.532Z",
+    "jammer_count": 14,
+    "omnidirectional_jammer_count": 14,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3743.9948348874336,
+  "mean_clear_time_s": 267.42820249195955,
+  "program_run_time_s": 2.008,
+  "counts": {
+    "measure": 137,
+    "clear": 17,
+    "clear_success": 14,
+    "clear_fail": 3,
+    "direction": 41,
+    "near": 0,
+    "no_signal": 96
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_042622.jsonl",
+  "audit_warnings": []
+}

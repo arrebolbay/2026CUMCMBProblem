@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 13,
+  "expected_total": 13,
+  "case_code": "HM73-KEB7-RCSN-WQMB",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 8256919151746778458,
+    "case_code": "HM73-KEB7-RCSN-WQMB",
+    "package_sha256": "658e1c1e6debaf46c580e747110c094585256453b2cf2034414b9629353730d1",
+    "window_started_at_utc": "2026-09-12T15:03:59.737Z",
+    "ended_at_utc": "2026-09-12T15:04:08.461Z",
+    "jammer_count": 13,
+    "omnidirectional_jammer_count": 13,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3542.9264309988853,
+  "mean_clear_time_s": 272.53280238452965,
+  "program_run_time_s": 3.755,
+  "counts": {
+    "measure": 135,
+    "clear": 17,
+    "clear_success": 13,
+    "clear_fail": 4,
+    "direction": 36,
+    "near": 0,
+    "no_signal": 99
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260912_230405.jsonl",
+  "audit_warnings": []
+}

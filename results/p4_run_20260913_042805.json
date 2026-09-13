@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 4,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": 12,
+  "case_code": "EWSS-A9W9-UQVR-H7HG",
+  "truth": {
+    "version": 2,
+    "problem_no": 4,
+    "practice_run_no": 366185900748886668,
+    "case_code": "EWSS-A9W9-UQVR-H7HG",
+    "package_sha256": "0d210c9100b1291967f6f17db8e7169cedb007345e49507d2aad9a2cba47a909",
+    "window_started_at_utc": "2026-09-12T20:28:09.434Z",
+    "ended_at_utc": "2026-09-12T20:28:11.42Z",
+    "jammer_count": 12,
+    "omnidirectional_jammer_count": 11,
+    "directional_jammer_count": 1
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 6461.514580994124,
+  "mean_clear_time_s": 538.459548416177,
+  "program_run_time_s": 1.631,
+  "counts": {
+    "measure": 250,
+    "clear": 12,
+    "clear_success": 12,
+    "clear_fail": 0,
+    "direction": 36,
+    "near": 0,
+    "no_signal": 214
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p4_run_20260913_042805.jsonl",
+  "audit_warnings": []
+}

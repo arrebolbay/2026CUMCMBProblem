@@ -1,0 +1,36 @@
+{
+  "status": "completed",
+  "problem_no": 3,
+  "run_mode": "live",
+  "run_kind": "formal",
+  "label": "正式测试2",
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 14,
+  "expected_total": null,
+  "case_code": "W59P-S3KZ-PPCN-NQFR",
+  "truth": {
+    "version": 1,
+    "problem_no": 3,
+    "formal_index": 2,
+    "case_code": "W59P-S3KZ-PPCN-NQFR",
+    "package_sha256": "4392fcab24a5cfe746bebb4e79ceb7dbce0a63e1428e736f317c24def062d22a",
+    "ended_at_utc": "2026-09-13T06:31:46.691Z"
+  },
+  "clearance_ratio": null,
+  "total_virtual_time_s": 4388.863182182097,
+  "mean_clear_time_s": 313.4902272987212,
+  "program_run_time_s": 1.706,
+  "counts": {
+    "measure": 150,
+    "clear": 16,
+    "clear_success": 14,
+    "clear_fail": 2,
+    "direction": 38,
+    "near": 0,
+    "no_signal": 112
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_143144.jsonl",
+  "audit_warnings": []
+}

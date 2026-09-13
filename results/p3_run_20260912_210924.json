@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": 12,
+  "case_code": "RRC3-U882-QFK8-8J84",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 1124551467082563900,
+    "case_code": "RRC3-U882-QFK8-8J84",
+    "package_sha256": "0bb08db1750210bc597bbb7a736a2fca46636357a821b84a2cfbf605081a4742",
+    "window_started_at_utc": "2026-09-12T13:09:23.787Z",
+    "ended_at_utc": "2026-09-12T13:09:25.377Z",
+    "jammer_count": 12,
+    "omnidirectional_jammer_count": 12,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3724.479029293164,
+  "mean_clear_time_s": 310.373252441097,
+  "program_run_time_s": 1.447,
+  "counts": {
+    "measure": 139,
+    "clear": 14,
+    "clear_success": 12,
+    "clear_fail": 2,
+    "direction": 29,
+    "near": 0,
+    "no_signal": 110
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260912_210924.jsonl",
+  "audit_warnings": []
+}

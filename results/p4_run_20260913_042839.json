@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 4,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 16,
+  "expected_total": 16,
+  "case_code": "KFEU-T6Z4-CN56-H4CE",
+  "truth": {
+    "version": 2,
+    "problem_no": 4,
+    "practice_run_no": 1131107430731041804,
+    "case_code": "KFEU-T6Z4-CN56-H4CE",
+    "package_sha256": "273b6536d1aa4badb753316ed36f058dd58680a3615d95b7fa7a3b3b605b6241",
+    "window_started_at_utc": "2026-09-12T20:28:38.89Z",
+    "ended_at_utc": "2026-09-12T20:28:40.781Z",
+    "jammer_count": 16,
+    "omnidirectional_jammer_count": 11,
+    "directional_jammer_count": 5
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 5472.42904319583,
+  "mean_clear_time_s": 342.02681519973936,
+  "program_run_time_s": 1.507,
+  "counts": {
+    "measure": 164,
+    "clear": 16,
+    "clear_success": 16,
+    "clear_fail": 0,
+    "direction": 45,
+    "near": 0,
+    "no_signal": 119
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p4_run_20260913_042839.jsonl",
+  "audit_warnings": []
+}

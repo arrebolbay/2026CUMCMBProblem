@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 15,
+  "expected_total": 15,
+  "case_code": "EX56-VUR9-EBBM-R72V",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 3264758848572775189,
+    "case_code": "EX56-VUR9-EBBM-R72V",
+    "package_sha256": "33f43dffe63e978b5f48be9ec5667bdcb664aa604f6b654e5ecdeb69bf436a66",
+    "window_started_at_utc": "2026-09-11T06:29:43.708Z",
+    "ended_at_utc": "2026-09-11T06:30:09.844Z",
+    "jammer_count": 15,
+    "omnidirectional_jammer_count": 15,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 6897.373352800341,
+  "mean_clear_time_s": 459.8248901866894,
+  "program_run_time_s": 1.18,
+  "counts": {
+    "measure": 141,
+    "clear": 30,
+    "clear_success": 15,
+    "clear_fail": 15,
+    "direction": 37,
+    "near": 0,
+    "no_signal": 104
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260911_143008.jsonl",
+  "audit_warnings": []
+}

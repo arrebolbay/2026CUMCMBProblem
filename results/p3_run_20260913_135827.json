@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 12,
+  "expected_total": 12,
+  "case_code": "R78X-E5S9-GSMK-MPWV",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 7055884167675178512,
+    "case_code": "R78X-E5S9-GSMK-MPWV",
+    "package_sha256": "32812fdcecb33cc467734b0513d0c525c9e8497b27cd8fa3fab926f1dc8b9741",
+    "window_started_at_utc": "2026-09-13T05:58:29.436Z",
+    "ended_at_utc": "2026-09-13T05:58:33Z",
+    "jammer_count": 12,
+    "omnidirectional_jammer_count": 12,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 3609.3660361686675,
+  "mean_clear_time_s": 300.7805030140556,
+  "program_run_time_s": 1.844,
+  "counts": {
+    "measure": 147,
+    "clear": 14,
+    "clear_success": 12,
+    "clear_fail": 2,
+    "direction": 37,
+    "near": 1,
+    "no_signal": 109
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_135827.jsonl",
+  "audit_warnings": []
+}

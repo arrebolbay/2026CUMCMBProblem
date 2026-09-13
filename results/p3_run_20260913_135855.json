@@ -1,0 +1,37 @@
+{
+  "status": "error:ConnectionError",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:2026",
+  "cleared_jammers": 11,
+  "expected_total": 11,
+  "case_code": "AV27-EX2R-722Q-AKG2",
+  "truth": {
+    "version": 2,
+    "problem_no": 3,
+    "practice_run_no": 2142675535673821704,
+    "case_code": "AV27-EX2R-722Q-AKG2",
+    "package_sha256": "a68f455d214baddb3dc11e4cc270dfeaac9641d3446c2a6d63ae49b8f4b3990a",
+    "window_started_at_utc": "2026-09-13T05:58:53.047Z",
+    "ended_at_utc": "2026-09-13T05:58:58.165Z",
+    "jammer_count": 11,
+    "omnidirectional_jammer_count": 11,
+    "directional_jammer_count": 0
+  },
+  "clearance_ratio": 1.0,
+  "total_virtual_time_s": 2634.6557327421892,
+  "mean_clear_time_s": 239.5141575220172,
+  "program_run_time_s": 2.06,
+  "counts": {
+    "measure": 124,
+    "clear": 11,
+    "clear_success": 11,
+    "clear_fail": 0,
+    "direction": 35,
+    "near": 1,
+    "no_signal": 88
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260913_135855.jsonl",
+  "audit_warnings": []
+}

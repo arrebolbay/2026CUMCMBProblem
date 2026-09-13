@@ -1,0 +1,26 @@
+{
+  "status": "completed",
+  "problem_no": 3,
+  "robot_id": "<参赛队号>",
+  "base_url": "http://127.0.0.1:55691",
+  "cleared_jammers": 11,
+  "expected_total": null,
+  "case_code": null,
+  "truth": null,
+  "clearance_ratio": null,
+  "total_virtual_time_s": 6051.479858732053,
+  "mean_clear_time_s": 550.1345326120048,
+  "program_run_time_s": 0.517,
+  "counts": {
+    "measure": 144,
+    "clear": 24,
+    "clear_success": 11,
+    "clear_fail": 13,
+    "direction": 26,
+    "near": 0,
+    "no_signal": 118
+  },
+  "unresolved": [],
+  "log_file": "G:\\C\\CUMCM B题\\logs\\p3_run_20260911_142330.jsonl",
+  "audit_warnings": []
+}

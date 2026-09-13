@@ -1,0 +1,47 @@
+{
+  "coverage": {
+    "seven_point_design_worst_case_m": 913.8910302594309,
+    "hexagonal_design_worst_case_m": 994.4726619138198,
+    "optimal_6_cover_radius_m": 1015.0606113411538,
+    "optimal_7_cover_radius_m": 913.8596768013988,
+    "ratio_1800_1000": 1.8,
+    "bezdek_threshold_6": 1.7988,
+    "bezdek_threshold_7": 2.0,
+    "min_points_for_coverage": 7
+  },
+  "problem3_design": {
+    "design_points": 8,
+    "ring_radius_m": 1000.0,
+    "analytic_worst_case_m": 998.2545144156829,
+    "monte_carlo_worst_case_m": 998.2433773128338,
+    "margin_m": 1.7454855843170662
+  },
+  "problem2": {
+    "d1": 1000.0,
+    "b_star_area": 1000.3000750187547,
+    "b_star_fim": 1000.3000750187547,
+    "theta_star_deg": 45.00859522638513,
+    "theoretical_b_star": 1000.0,
+    "theoretical_theta_deg": 45.0
+  },
+  "problem1": {
+    "two_station_vertices": 4,
+    "two_station_area": 645.4345204290876,
+    "two_station_covered": true,
+    "two_station_diameter": 39.577547363424756,
+    "acute_triangle_covered": false,
+    "acute_triangle_mec_radius": 0.5773502691896257
+  },
+  "problem4": {
+    "seven_point_directional_pass_ratio": 0.0925,
+    "design_points": 22,
+    "directional_pass_ratio": 1.0,
+    "certificate_ok": true,
+    "certificate_fail": 0,
+    "certificate_max_gap_deg": 177.37681183730433,
+    "certificate_samples": 11280,
+    "triangulation_longest_edge_m": 988.4403086910175,
+    "outer_inradius_m": 1811.1109242920031,
+    "omni_worst_case_m": 578.221234724817
+  }
+}
